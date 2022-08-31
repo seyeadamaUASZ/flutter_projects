@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555923689111",
+    "project_id": "ecommerce-7bae0",
+    "storage_bucket": "ecommerce-7bae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555923689111:android:b9293f8b73cd7b73ca23d2",
+        "android_client_info": {
+          "package_name": "com.adama.ecommerceApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555923689111-bhqr0tvtm6sggg57dlqdu7f92mpjkus3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxU3BFBvFz2NejApilivXwudhLTnOtoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555923689111-bhqr0tvtm6sggg57dlqdu7f92mpjkus3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
